@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OI64mpzkDFnc3ndIhctR4lvgBLBD0S5FdfPz6aB85nrHIGjg47/HLqakLXtcdM6QVKs/8B7fPZk88YfR6WvCDg==",
+  "dgSpecHash": "U9lbNJ4oDdEhh6Ycsww/eOQK6Etg0zSenEA7g70Vtiif1KgV7l1Myn5zbw9b6f1/UMOdgfzx6LyXKlY9+v+9RA==",
   "success": true,
   "projectFilePath": "E:\\Desarrollos\\Cursos Carlos Piedra - Baeztone\\MagicVillage\\MagicVillage_API\\MagicVillage_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
